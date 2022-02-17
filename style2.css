@@ -1,0 +1,11 @@
+body
+{
+    background-image: url(images/image\ de\ fond\ page\ acceuil.jpg);
+}
+
+h2
+{
+    color: blue;
+    background-color: aquamarine;
+    width: 350px;
+}
